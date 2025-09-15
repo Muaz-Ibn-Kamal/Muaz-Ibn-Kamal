@@ -25,11 +25,10 @@
 
 ---
 
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Mail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)  
+## 🌐 Connect with me   
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:muazibnkamal8@gmail.com)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/YOUR_FACEBOOK](https://www.facebook.com/muazibnkamal.alif.18))  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)]([https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/muaz_ibn_kamal/))  
 
 ---
 
