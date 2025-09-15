@@ -33,11 +33,11 @@
 ---
 
 ## ⚡ Extras  
-![](https://komarev.com/ghpvc/?username=muazibnkamal&color=brightgreen)  
+![](https://komarev.com/ghpvc/?username=Muaz-Ibn-Kamal&color=brightgreen)  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;Full+Stack+Developer;Graphic+Designer;Research+Enthusiast)](https://git.io/typing-svg)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muazibnkamal&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muaz-Ibn-Kamal&theme=react-dark)
 ## Hi there 👋
 
 <!--
