@@ -19,9 +19,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![Muaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muazibnkamal&show_icons=true&theme=radical)  
+![Muaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muaz-Ibn-Kamal&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazibnkamal&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muaz-Ibn-Kamal&layout=compact&theme=radical)
 
 ---
 
