@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Muaz Ibn Kamal Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Muaz%20Ibn%20Kamal%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Muaz Ibn Kamal Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Muaz%20Ibn%20Kamal%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hi, I'm Muaz Ibn Kamal  
 
